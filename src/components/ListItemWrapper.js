@@ -1,6 +1,8 @@
 import ListItem from "./ListItem";
 
+
 const ListItemWrapper = ({result, setImage,randomValue, setTitle})=>{
+
   return(
         <ul className="listItemWrapper w-5/5 ">
         { 
